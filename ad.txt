@@ -1,0 +1,1 @@
+##div.samBannerUnit[data-position="footer_fixed"]
