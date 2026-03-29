@@ -1,2 +1,3 @@
-##div.samBannerUnit[data-position="footer_fixed"]
-##div.samBannerUnit[data-position="container_breadcrumb_top_above"]
+#@#.samCodeUnit
+##.samCodeUnit[data-position="footer_fixed"]
+##.samCodeUnit[data-position="post_below_container_1"] .samItem
